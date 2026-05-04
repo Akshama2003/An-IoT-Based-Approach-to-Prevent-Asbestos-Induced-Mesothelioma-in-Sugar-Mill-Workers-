@@ -1,8 +1,7 @@
-<img width="642" height="414" alt="WhatsApp Image 2026-01-13 at 21 58 17" src="https://github.com/user-attachments/assets/ce4292d7-3f56-4472-91ed-bb22d65fa65f" />
-<img width="2296" height="4080" alt="WhatsApp Image 2025-04-13 at 13 14 16_c91d0597" src="https://github.com/user-attachments/assets/decdd2f2-d8df-4d34-bd87-2ba799decf70" />
 
 
-https://github.com/user-attachments/assets/2409aefa-9e38-414c-bbad-b3a67797f391
+
+
 
 # 🏭 An IoT-Based Approach to Prevent Asbestos-Induced Mesothelioma in Sugar Mill Workers
 
@@ -72,7 +71,7 @@ Sugar mills often contain **aging asbestos infrastructure**, which releases harm
 ---
 
 ### ☁️ Cloud Dashboard
-![Dashboard]("C:\Users\akshama\Downloads\reading.jpeg")
+![Dashboard]("<img width="710" height="1280" alt="reading" src="https://github.com/user-attachments/assets/abf9b699-bd8a-4106-8d8a-9b31d3f3847c" />")
 
 - Displays real-time data  
 - Sends alerts & notifications  
@@ -132,7 +131,8 @@ Sugar mills often contain **aging asbestos infrastructure**, which releases harm
 
 ## 📸 Project Demo
 
-![Demo1]("C:\Users\akshama\Downloads\reading.jpeg")
+https://github.com/user-attachments/assets/2409aefa-9e38-414c-bbad-b3a67797f391<img width="710" height="1280" alt="reading" src="https://github.com/user-attachments/assets/184857f3-0447-4d6e-8ddf-d6e984646981" />
+
 
 
 ---
